@@ -1,0 +1,29 @@
+{
+  "name": "sugg",
+  "version": "0.0.0",
+  "description": "Sugg debounces the input, load and caches the results, and emit `result` events when there is new results.",
+  "main": "index.js",
+  "dependencies": {
+    "async-cache": "^0.1.5",
+    "inherits": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tellnes/sugg.git"
+  },
+  "keywords": [
+    "suggest",
+    "suggestion",
+    "debounce",
+    "cache"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tellnes/sugg/issues"
+  },
+  "homepage": "https://github.com/tellnes/sugg",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
