@@ -1,6 +1,6 @@
 {
   "name": "sugg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sugg debounces the input, load and caches the results, and emit `result` events when there is new results.",
   "main": "index.js",
   "dependencies": {
