@@ -4,8 +4,8 @@
   "description": "Sugg debounces the input, load and caches the results, and emit `result` events when there is new results.",
   "main": "index.js",
   "dependencies": {
-    "async-cache": "^0.1.5",
-    "inherits": "^2.0.1"
+    "async-cache": "~1.0.0",
+    "inherits": "~2.0.1"
   },
   "repository": {
     "type": "git",
