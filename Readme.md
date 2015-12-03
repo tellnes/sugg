@@ -1,7 +1,6 @@
 # Sugg
 
-[![Dependency Status](https://david-dm.org/tellnes/sugg.svg)](https://david-dm.org/tellnes/shingle)
-[![Tips](http://img.shields.io/gittip/tellnes.png)](https://www.gittip.com/tellnes/)
+[![Version npm](https://img.shields.io/npm/v/sugg.svg?style=flat-square)](https://www.npmjs.com/package/sugg)[![npm Downloads](https://img.shields.io/npm/dm/sugg.svg?style=flat-square)](https://www.npmjs.com/package/sugg)[![Build Status](https://img.shields.io/travis/tellnes/sugg/master.svg?style=flat-square)](https://travis-ci.org/tellnes/sugg)[![Dependencies](https://img.shields.io/david/tellnes/sugg.svg?style=flat-square)](https://david-dm.org/tellnes/sugg)[![Tips](http://img.shields.io/gratipay/tellnes.png?style=flat-square)](https://gratipay.com/~tellnes/)
 
 Sugg debounces the input, load and caches the results, and emit `result` events when there is
 new results.
